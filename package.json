@@ -1,0 +1,24 @@
+{
+  "name": "react-ts",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@types/react": "^18.0.8",
+    "@types/react-dom": "^18.0.2",
+    "npx": "^10.2.2",
+    "pdf": "^0.1.0",
+    "pdfmake": "^0.2.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.1.0",
+    "—save": "*"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
